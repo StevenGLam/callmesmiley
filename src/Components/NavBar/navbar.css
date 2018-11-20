@@ -1,0 +1,6 @@
+ul li {
+  display: inline-block;
+  width: 5rem;
+  color: red;
+  font-size: 1rem;
+}
